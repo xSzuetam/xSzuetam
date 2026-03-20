@@ -1,4 +1,4 @@
-czesc
+czesc\n
 pozdrawiam
 tego
 co
